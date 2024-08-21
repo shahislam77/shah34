@@ -17,7 +17,7 @@ A brief summary of the topic
 ---
 
 Key Points
-Point 1:
+Point 1:  branch it branch it
 Point 2:
 Point 3:
 
